@@ -1,0 +1,17 @@
+# Fichiers compilés
+*.exe
+*.o
+*.out
+a.out
+
+# Dossiers de build
+build/
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
